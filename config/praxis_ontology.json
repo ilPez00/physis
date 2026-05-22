@@ -1,0 +1,145 @@
+{
+  "kind": "human",
+  "domains": [
+    {
+      "name": "Body & Fitness",
+      "category": "Physical",
+      "domain": "HEAL",
+      "mode": "LIFT",
+      "axis_kind": "human",
+      "axis_name": "physical",
+      "unit": "reps",
+      "hints": ["gym", "lift", "workout", "sport", "exercise", "run", "yoga"]
+    },
+    {
+      "name": "Rest & Recovery",
+      "category": "Physical",
+      "domain": "HEAL",
+      "mode": "REST",
+      "axis_kind": "human",
+      "axis_name": "physical",
+      "unit": "hours",
+      "hints": ["sleep", "rest", "nap", "recovery", "break"]
+    },
+    {
+      "name": "Mental Balance",
+      "category": "Psychological",
+      "domain": "HEAL",
+      "mode": "REST",
+      "axis_kind": "human",
+      "axis_name": "psychological",
+      "unit": "min",
+      "hints": ["meditation", "journal", "breathe", "calm", "mindfulness"]
+    },
+    {
+      "name": "Environment & Home",
+      "category": "Psychological",
+      "domain": "CONSTRUCT",
+      "mode": "CREATE",
+      "axis_kind": "human",
+      "axis_name": "psychological",
+      "unit": "tasks",
+      "hints": ["home", "clean", "organize", "repair", "declutter"]
+    },
+    {
+      "name": "Health & Longevity",
+      "category": "Physical",
+      "domain": "HEAL",
+      "mode": "WALK",
+      "axis_kind": "human",
+      "axis_name": "physical",
+      "unit": "steps",
+      "hints": ["walk", "outside", "doctor", "pharmacy", "checkup"]
+    },
+    {
+      "name": "Financial Security",
+      "category": "Economic",
+      "domain": "FABRICATE",
+      "mode": "WORK",
+      "axis_kind": "human",
+      "axis_name": "economic",
+      "unit": "budget",
+      "hints": ["bank", "budget", "finance", "invoice", "spreadsheet", "bill"]
+    },
+    {
+      "name": "Friendship & Social",
+      "category": "Psychological",
+      "domain": "BOND",
+      "mode": "REST",
+      "axis_kind": "human",
+      "axis_name": "psychological",
+      "unit": "contacts",
+      "hints": ["friend", "call", "meet", "social", "message", "hangout"]
+    },
+    {
+      "name": "Romance & Intimacy",
+      "category": "Psychological",
+      "domain": "BOND",
+      "mode": "REST",
+      "axis_kind": "human",
+      "axis_name": "psychological",
+      "unit": "quality-time",
+      "hints": ["partner", "date", "intimacy", "together", "relationship"]
+    },
+    {
+      "name": "Community & Contribution",
+      "category": "Psychological",
+      "domain": "BOND",
+      "mode": "CREATE",
+      "axis_kind": "human",
+      "axis_name": "psychological",
+      "unit": "hours",
+      "hints": ["volunteer", "community", "contribute", "teach", "mentor"]
+    },
+    {
+      "name": "Career & Craft",
+      "category": "Intellectual",
+      "domain": "FABRICATE",
+      "mode": "WORK",
+      "axis_kind": "human",
+      "axis_name": "intellectual",
+      "unit": "deliverables",
+      "hints": ["desk", "ide", "code", "work", "project", "office", "career"]
+    },
+    {
+      "name": "Wealth & Assets",
+      "category": "Economic",
+      "domain": "FABRICATE",
+      "mode": "WORK",
+      "axis_kind": "human",
+      "axis_name": "economic",
+      "unit": "portfolio",
+      "hints": ["invest", "trading", "portfolio", "asset", "crypto", "real estate"]
+    },
+    {
+      "name": "Gaming & Esports",
+      "category": "Intellectual",
+      "domain": "STUDY",
+      "mode": "CREATE",
+      "axis_kind": "human",
+      "axis_name": "intellectual",
+      "unit": "hours",
+      "hints": ["game", "esports", "ranked", "practice", "stream", "gaming"]
+    },
+    {
+      "name": "Impact & Legacy",
+      "category": "Intellectual",
+      "domain": "CONSTRUCT",
+      "mode": "CREATE",
+      "axis_kind": "human",
+      "axis_name": "intellectual",
+      "unit": "projects",
+      "hints": ["write", "publish", "launch", "build", "create", "found"]
+    },
+    {
+      "name": "Spirit & Purpose",
+      "category": "Psychological",
+      "domain": "STUDY",
+      "mode": "LEARN",
+      "axis_kind": "human",
+      "axis_name": "psychological",
+      "unit": "pages",
+      "hints": ["read", "philosophy", "reflect", "meaning", "purpose", "spiritual"]
+    }
+  ]
+}
